@@ -14,3 +14,5 @@ As of writing, the following states / maps have not been incorporated:
 - NY - no CONG - IN PROGRESS
 - OH - no SLDL - IN PROGRESS
 - OH - no SLDU - IN PROGRESS
+
+To update the files, please see the instructions under the "Add New Files - Add Code Here" section of the notebook
